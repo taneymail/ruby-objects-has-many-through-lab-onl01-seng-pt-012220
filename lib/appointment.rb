@@ -19,5 +19,4 @@
   def doctor
     @doctor
   end 
-  
 end
